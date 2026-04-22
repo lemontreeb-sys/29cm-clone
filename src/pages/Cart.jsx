@@ -240,7 +240,7 @@ const TopBar = styled.header`
 
 const ControlBar = styled.div`
   position: fixed;
-  width: 430px;
+  max-width: 430px;
   margin: 40px auto;
   display: flex;
   justify-content: space-between;
@@ -249,6 +249,7 @@ const ControlBar = styled.div`
   background-color: #fff;
   border-bottom: 1px solid #f4f4f4;
   z-index: 1010;
+  width: 100%;
 
   label {
     display: flex;
