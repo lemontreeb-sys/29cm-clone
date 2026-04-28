@@ -38,7 +38,7 @@ const NavContainer = styled.nav`
   left: 0;
   right: 0;
   margin: 0 auto;
-  bottom: 0;
+  bottom: -1px;
   width: 100%;
   z-index: 10;
   background-color: rgba(247, 247, 247, 0.7);
@@ -48,7 +48,7 @@ const NavContainer = styled.nav`
   display: flex;
   justify-content: space-between;
   padding-top: 8px;
-  padding-bottom: 12px;
+  padding-bottom: 16px;
 `;
 
 const NavItem = styled(NavLink)`

@@ -29,6 +29,7 @@ const MainBanner = () => {
 const BannerContainer = styled.section`
   width: 100%;
   overflow: hidden;
+  margin-top: 10px;
 `;
 
 const SlideItem = styled.article`
