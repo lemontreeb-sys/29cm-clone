@@ -11,12 +11,26 @@ const BottomNav = () => {
     { name: "좋아요", icon: Heart, path: "/like" },
     { name: "마이페이지", icon: User, path: "/mypage" },
   ];
+
+  const handleNavClick = (e, item) => {
+    const allowedPaths = ["/", "/like"];
+
+    if (!allowedPaths.includes(item.path)) {
+      e.preventDefault();
+      alert(`'${item.name}' 페이지는 현재 준비 중입니다. `);
+    }
+  };
+
   return (
     <NavContainer>
       {navItems.map((item) => {
         const CurrentIcon = item.icon;
         return (
-          <NavItem key={item.name} to={item.path}>
+          <NavItem
+            key={item.name}
+            to={item.path}
+            onClick={(e) => handleNavClick(e, item)}
+          >
             {({ isActive }) => (
               <>
                 <CurrentIcon

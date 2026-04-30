@@ -231,12 +231,12 @@ export const curationData = [
       },
     ],
   },
-  /* {
+  {
     id: 4,
     category: "beauty",
     label: "뷰티",
     mainImage:
-      "https://images.unsplash.com/photo-1596462502278-27bfad450216?q=80&w=1470&auto=format",
+      "https://images.unsplash.com/photo-1551184451-76b762941ad6?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     title: "감각적인 휴식, 뷰티 에센셜",
     subtitle: "당신의 일상에 스며드는 은은한 향기와 정성스러운 케어.",
     products: [
@@ -245,7 +245,7 @@ export const curationData = [
         brand: "이솝",
         name: "레저렉션 아로마틱 핸드 밤",
         image:
-          "https://images.unsplash.com/photo-1631730359585-38a4935cbbca?q=80&w=687&auto=format",
+          "https://images.unsplash.com/photo-1619451427882-6aaaded0cc61?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         originalPrice: 41000,
         price: 39000,
         discountRate: 5,
@@ -254,7 +254,8 @@ export const curationData = [
         heartCount: 1205,
         isLiked: false,
         detailImages: [
-          "https://images.unsplash.com/photo-1631730359585-38a4935cbbca",
+          "https://plus.unsplash.com/premium_photo-1674949802338-f94005eb5b0a?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "https://images.unsplash.com/photo-1506543277633-99deabfcd722?q=80&w=975&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         ],
         reviewCount: 842,
         point: 390,
@@ -268,7 +269,7 @@ export const curationData = [
         brand: "논픽션",
         name: "상탈크림 오 드 퍼퓸 100ml",
         image:
-          "https://images.unsplash.com/photo-1541643600914-78b084683601?q=80&w=687&auto=format",
+          "https://images.unsplash.com/photo-1596462502278-27bfdc403348?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         originalPrice: 158000,
         price: 158000,
         discountRate: 0,
@@ -278,6 +279,7 @@ export const curationData = [
         isLiked: true,
         detailImages: [
           "https://images.unsplash.com/photo-1541643600914-78b084683601",
+          "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?q=80&w=986&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         ],
         reviewCount: 456,
         point: 1580,
@@ -291,7 +293,7 @@ export const curationData = [
         brand: "템버린즈",
         name: "에그 립밤 로즈우드",
         image:
-          "https://images.unsplash.com/photo-1629732047847-50b7ee4922af?q=80&w=687&auto=format",
+          "https://images.unsplash.com/photo-1672883435480-81b9f385654e?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         originalPrice: 28900,
         price: 26000,
         discountRate: 10,
@@ -300,7 +302,8 @@ export const curationData = [
         heartCount: 432,
         isLiked: false,
         detailImages: [
-          "https://images.unsplash.com/photo-1629732047847-50b7ee4922af",
+          "https://images.unsplash.com/photo-1672883435480-81b9f385654e?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "https://images.unsplash.com/photo-1556942040-df93bd3bdd19?q=80&w=1364&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         ],
         reviewCount: 89,
         point: 260,
@@ -316,7 +319,7 @@ export const curationData = [
     category: "home",
     label: "홈",
     mainImage:
-      "https://images.unsplash.com/photo-1583847268964-b28dc2f51ac9?q=80&w=1470&auto=format",
+      "https://images.unsplash.com/photo-1599696848652-f0ff23bc911f?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     title: "머무는 곳이 곧 당신의 취향",
     subtitle: "공간의 분위기를 완성하는 오브제와 리빙 컬렉션.",
     products: [
@@ -325,7 +328,7 @@ export const curationData = [
         brand: "헤이(HAY)",
         name: "컬러 크레이트 미디엄",
         image:
-          "https://images.unsplash.com/photo-1594409855476-29909f358335?q=80&w=687&auto=format",
+          "https://images.unsplash.com/photo-1567016432779-094069958ea5?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         originalPrice: 18000,
         price: 15300,
         discountRate: 15,
@@ -334,7 +337,8 @@ export const curationData = [
         heartCount: 3201,
         isLiked: false,
         detailImages: [
-          "https://images.unsplash.com/photo-1594409855476-29909f358335",
+          "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "https://images.unsplash.com/photo-1567016432779-094069958ea5?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         ],
         reviewCount: 1542,
         point: 153,
@@ -348,7 +352,7 @@ export const curationData = [
         brand: "크로우캐년",
         name: "머그컵 베이비 블루",
         image:
-          "https://images.unsplash.com/photo-1514228742587-6b1558fbed20?q=80&w=687&auto=format",
+          "https://images.unsplash.com/photo-1617076678363-99dd6eb5150b?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         originalPrice: 22000,
         price: 19800,
         discountRate: 10,
@@ -357,7 +361,8 @@ export const curationData = [
         heartCount: 5432,
         isLiked: true,
         detailImages: [
-          "https://images.unsplash.com/photo-1514228742587-6b1558fbed20",
+          "https://images.unsplash.com/photo-1617076678363-99dd6eb5150b?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "https://images.unsplash.com/photo-1693048737386-6a7cd753441a?q=80&w=986&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         ],
         reviewCount: 2890,
         point: 198,
@@ -371,7 +376,7 @@ export const curationData = [
         brand: "프리츠한젠",
         name: "나이트 하이 바 스툴",
         image:
-          "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?q=80&w=687&auto=format",
+          "https://images.unsplash.com/photo-1592078615290-033ee584e267?q=80&w=1364&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         originalPrice: 850000,
         price: 765000,
         discountRate: 10,
@@ -381,6 +386,7 @@ export const curationData = [
         isLiked: false,
         detailImages: [
           "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c",
+          "https://images.unsplash.com/photo-1592078615290-033ee584e267?q=80&w=1364&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         ],
         reviewCount: 15,
         point: 7650,
@@ -405,7 +411,7 @@ export const curationData = [
         brand: "뉴발란스",
         name: "990v6 Made in USA Gray",
         image:
-          "https://images.unsplash.com/photo-1539185441755-769473a23570?q=80&w=687&auto=format",
+          "https://images.unsplash.com/photo-1621315271772-28b1f3a5df87?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         originalPrice: 289000,
         price: 289000,
         discountRate: 0,
@@ -415,6 +421,7 @@ export const curationData = [
         isLiked: false,
         detailImages: [
           "https://images.unsplash.com/photo-1539185441755-769473a23570",
+          "https://images.unsplash.com/photo-1621315271772-28b1f3a5df87?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         ],
         reviewCount: 4561,
         point: 2890,
@@ -428,7 +435,7 @@ export const curationData = [
         brand: "포터",
         name: "탱커 숄더백 S 블랙",
         image:
-          "https://images.unsplash.com/photo-1553062407-98eeb94c6a62?q=80&w=687&auto=format",
+          "https://images.unsplash.com/photo-1614179689702-355944cd0918?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         originalPrice: 248000,
         price: 248000,
         discountRate: 0,
@@ -437,7 +444,8 @@ export const curationData = [
         heartCount: 1540,
         isLiked: true,
         detailImages: [
-          "https://images.unsplash.com/photo-1553062407-98eeb94c6a62",
+          "https://images.unsplash.com/photo-1614179689702-355944cd0918?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         ],
         reviewCount: 320,
         point: 2480,
@@ -451,7 +459,7 @@ export const curationData = [
         brand: "파타고니아",
         name: "P-6 로고 반팔 티셔츠",
         image:
-          "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?q=80&w=687&auto=format",
+          "https://images.unsplash.com/photo-1564859227552-81fde4a1df0b?q=80&w=2342&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         originalPrice: 65000,
         price: 58500,
         discountRate: 10,
@@ -461,6 +469,7 @@ export const curationData = [
         isLiked: false,
         detailImages: [
           "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+          "https://images.unsplash.com/photo-1564859227552-81fde4a1df0b?q=80&w=2342&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         ],
         reviewCount: 890,
         point: 585,
@@ -476,7 +485,7 @@ export const curationData = [
     category: "discovery",
     label: "발견",
     mainImage:
-      "https://images.unsplash.com/photo-1513519245088-0e12902e35ca?q=80&w=1470&auto=format",
+      "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     title: "새로운 영감의 시작",
     subtitle: "29CM가 찾아낸 라이징 브랜드와 특별한 아이템.",
     products: [
@@ -485,7 +494,7 @@ export const curationData = [
         brand: "오소이",
         name: "FOLDER BROT 블랙",
         image:
-          "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?q=80&w=687&auto=format",
+          "https://images.unsplash.com/photo-1609172795052-05bf80681031?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         originalPrice: 318000,
         price: 286200,
         discountRate: 10,
@@ -494,6 +503,7 @@ export const curationData = [
         heartCount: 752,
         isLiked: false,
         detailImages: [
+          "https://images.unsplash.com/photo-1492707892479-7bc8d5a4ee93?q=80&w=1365&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
           "https://images.unsplash.com/photo-1548036328-c9fa89d128fa",
         ],
         reviewCount: 142,
@@ -517,6 +527,7 @@ export const curationData = [
         heartCount: 310,
         isLiked: false,
         detailImages: [
+          "https://images.unsplash.com/photo-1525507119028-ed4c629a60a3?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
           "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633",
         ],
         reviewCount: 45,
@@ -531,7 +542,7 @@ export const curationData = [
         brand: "르메르",
         name: "범백 스몰 다크초코",
         image:
-          "https://images.unsplash.com/photo-1594223274512-ad4803739b7c?q=80&w=687&auto=format",
+          "https://images.unsplash.com/photo-1562157873-818bc0726f68?q=80&w=927&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         originalPrice: 1560000,
         price: 1404000,
         discountRate: 10,
@@ -541,6 +552,7 @@ export const curationData = [
         isLiked: false,
         detailImages: [
           "https://images.unsplash.com/photo-1594223274512-ad4803739b7c",
+          "https://images.unsplash.com/photo-1624687943971-e86af76d57de?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         ],
         reviewCount: 12,
         point: 14040,
@@ -565,7 +577,7 @@ export const curationData = [
         brand: "아디다스",
         name: "삼바 비건 사이클링 블랙",
         image:
-          "https://images.unsplash.com/photo-1587563871167-1ee9c731aefb?q=80&w=687&auto=format",
+          "https://images.unsplash.com/photo-1593287073863-c992914cb3e3?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         originalPrice: 139000,
         price: 125100,
         discountRate: 10,
@@ -575,6 +587,7 @@ export const curationData = [
         isLiked: false,
         detailImages: [
           "https://images.unsplash.com/photo-1587563871167-1ee9c731aefb",
+          "https://images.unsplash.com/photo-1593287073863-c992914cb3e3?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         ],
         reviewCount: 4321,
         point: 1251,
@@ -598,6 +611,7 @@ export const curationData = [
         isLiked: true,
         detailImages: [
           "https://images.unsplash.com/photo-1556821840-3a63f95609a7",
+          "https://images.unsplash.com/photo-1507680434567-5739c80be1ac?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         ],
         reviewCount: 2100,
         point: 675,
@@ -611,7 +625,7 @@ export const curationData = [
         brand: "킨(KEEN)",
         name: "재스퍼 락 SP 카키",
         image:
-          "https://images.unsplash.com/photo-1560769629-975ec94e6a86?q=80&w=687&auto=format",
+          "https://images.unsplash.com/photo-1717127251642-869277aa5929?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         originalPrice: 179000,
         price: 161100,
         discountRate: 10,
@@ -621,6 +635,7 @@ export const curationData = [
         isLiked: false,
         detailImages: [
           "https://images.unsplash.com/photo-1560769629-975ec94e6a86",
+          "https://images.unsplash.com/photo-1717127251642-869277aa5929?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         ],
         reviewCount: 980,
         point: 1611,
@@ -630,5 +645,5 @@ export const curationData = [
         colors: ["#C2B280"],
       },
     ],
-  }, */
+  },
 ];
